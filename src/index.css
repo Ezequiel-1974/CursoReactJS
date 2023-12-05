@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Aclonica&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1, h2, h4, h3 {
+  color: #fff;
+}
+
+
+h1, p, a, ul, li {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+h2 {
+  text-align: center;
+  font-size: 18px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+header h1 h2 {
+  text-decoration: none;
+}
+body {
+  background-image: url(../src/components/assets/img/pjbuhonero.png);
+  z-index: 100;
+}
+
+aside {
+  font-family: 'Aclonica', sans-serif;
+  width: 45vh;
+  padding: 1rem;
+  padding-right: 0;
+  color: white;
+  position: sticky;
+  top: 0;
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+aside  li {
+  width: 35vh;
+}
+
+section {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-color: gray;
+  border-radius: 25px;
+  position: absolute;
+  display: grid;
+  width: 76%;
+  height: auto;
+  top: 0;
+  margin-left: 24%;
+  padding: 1rem;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem; 
+  justify-content: center; 
+}
+
+h4 {
+  right: 46%;
+  font-size: 40px;
+}
+
+.mrBotones{
+  position: absolute;
+  display: flex;
+  bottom: 4%;
+  left: 41.5%;
+}
