@@ -14,7 +14,7 @@ Bienvenido a El Variado, un proyecto de e-commerce desarrollado con ReactJS + Vi
 
 
 ## Captura de pantalla
-![El Variado](https://res.cloudinary.com/dob2vpzui/image/upload/v1699495295/ozwof7skiftohmhtyvwr.png)
+![El Variado](https://res.cloudinary.com/drwhdwvnn/image/upload/v1702291603/Prueba_funciona_dags0g.png)
 
 ## Configuración del proyecto
 1. Clona el repositorio de Ezequiel-1974 en tu máquina local:
