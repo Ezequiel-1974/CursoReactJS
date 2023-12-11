@@ -29,9 +29,9 @@ const Navbar = () => {
       <aside>
         <header>
           <Link to="/">
-            <img className="logo" src="https://res.cloudinary.com/dob2vpzui/image/upload/v1698959935/buhoneroicon_il848d.png"/>
+            <img className="logo" src="https://res.cloudinary.com/drwhdwvnn/image/upload/v1702238843/Venta_de_productos_jeemyx.png"/>
           </Link>
-          <h2>Got some rare things on sale, stranger!</h2>
+          <h2>Encuentre todo lo que necesite aqui.</h2>
         </header>
         <nav className="nav">
           <ul>

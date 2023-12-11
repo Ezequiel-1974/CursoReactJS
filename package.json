@@ -1,5 +1,5 @@
 {
-  "name": "comision-47225",
+  "name": "comision-58400",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -15,7 +15,7 @@
     "@fontsource/roboto": "^5.0.8",
     "@mui/icons-material": "^5.14.15",
     "@mui/material": "^5.14.20",
-    "firebase": "^10.7.0",
+    "firebase": "^10.7.1",
     "formik": "^2.4.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",

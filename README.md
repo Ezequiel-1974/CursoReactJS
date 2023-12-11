@@ -1,6 +1,6 @@
-# BUHONERO E-Commerce
+# El Variado E-Commerce
 
-Bienvenido a BUHONERO, un proyecto de e-commerce desarrollado con ReactJS + Vite, React-router-dom, SweetAlert2, Material-UI, Firebase, Formik y Yup. Este sistema te permite administrar productos, pedidos y clientes en una plataforma en línea. A continuación, te proporcionamos información sobre cómo configurar y utilizar este proyecto.
+Bienvenido a El Variado, un proyecto de e-commerce desarrollado con ReactJS + Vite, React-router-dom, SweetAlert2, Material-UI, Firebase, Formik y Yup. Este sistema te permite administrar productos, pedidos y clientes en una plataforma en línea. A continuación, te proporcionamos información sobre cómo configurar y utilizar este proyecto.
 
 ## Herramientas utilizadas
 
@@ -14,17 +14,17 @@ Bienvenido a BUHONERO, un proyecto de e-commerce desarrollado con ReactJS + Vite
 
 
 ## Captura de pantalla
-![BUHONERO](https://res.cloudinary.com/dob2vpzui/image/upload/v1699495295/ozwof7skiftohmhtyvwr.png)
+![El Variado](https://res.cloudinary.com/dob2vpzui/image/upload/v1699495295/ozwof7skiftohmhtyvwr.png)
 
 ## Configuración del proyecto
-1. Clona el repositorio de BUHONERO en tu máquina local:
+1. Clona el repositorio de Ezequiel-1974 en tu máquina local:
 ```
     git clone <URL del repositorio>
 ```
 
 2. Navega al directorio del proyecto:
 ```
-cd buhonero
+cd elvariado
 ```
 
 3. Instala las dependencias utilizando npm:
@@ -54,13 +54,13 @@ La aplicación se ejecutará en [http://localhost:3000](http://localhost:3000).
 
 ## Uso
 
-- La aplicación BUHONERO te permitirá administrar productos, pedidos y clientes en línea.
+- La aplicación El Variado te permitirá administrar productos, pedidos y clientes en línea.
 - Utiliza las funciones proporcionadas en la interfaz de usuario para agregar, editar o eliminar productos, gestionar pedidos y mantener un registro de los clientes.
 
 
 
 ## Contacto
 
-Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto a través de [barrozomartin91@hotmail.com].
+Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto a través de [@gmail.com].
 
-¡Gracias por utilizar BUHONERO E-Commerce! Esperamos que te sea útil en tu negocio en línea.
+¡Gracias por utilizar El Variado E-Commerce! Esperamos que te sea útil en tu negocio en línea.
